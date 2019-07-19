@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Atmel Studio Solution File, Format Version 11.00
+Project("{54F91283-7BC4-4236-8FF9-10F437C3AD48}") = "Minro_project", "Minro_project\Minro_project.cproj", "{0A64CAC1-7D1C-4A69-B415-9FE75B067E3F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|AVR = Debug|AVR
+		Release|AVR = Release|AVR
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0A64CAC1-7D1C-4A69-B415-9FE75B067E3F}.Debug|AVR.ActiveCfg = Debug|AVR
+		{0A64CAC1-7D1C-4A69-B415-9FE75B067E3F}.Debug|AVR.Build.0 = Debug|AVR
+		{0A64CAC1-7D1C-4A69-B415-9FE75B067E3F}.Release|AVR.ActiveCfg = Release|AVR
+		{0A64CAC1-7D1C-4A69-B415-9FE75B067E3F}.Release|AVR.Build.0 = Release|AVR
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
