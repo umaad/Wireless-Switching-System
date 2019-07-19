@@ -1,7 +1,7 @@
 # Wireless-Switching-System Based on Voice Recognition
 Microcontroller Based Home Automation System
 1)Wireless Switching.pdf consists of finalised report of this project.
-
+2)Wireless-Switching-System/Minro_project/Minro_project.c is the code for programmming AVR microcontroller.
 
 How to Run The Project
 1)Install Atmel Studio 
