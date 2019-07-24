@@ -1,6 +1,6 @@
 # Wireless Switching System Based On Voice Recognition
 
-One Paragraph of project description goes here
+
 
 ## Getting Started
 
@@ -19,34 +19,35 @@ These instructions will get you a copy of the project up and running on your loc
 
 A step by step series of examples that tell you how to get a development env running
 
-Say what the step will be
 
-```
-1)Wireless Switching.pdf consists of finalised report of this project. 
-2)Wireless-Switching-System/Minro_project/Minro_project.c is the code for programmming AVR microcontroller.
-```
-
-And repeat
-
-```
-until finished
-```
-
-End with an example of getting some data out of the system or using it for a little demo
-
-## Running the tests
-
-Explain how to run the automated tests for this system
-
-### Break down into end to end tests
-
-Explain what these tests test and why
 
 ```
 1)Install Atmel Studio 
 2)Install Sinaprog to program the microcontroller 
 3)Make setup for required hardware prototype as mentioned in above .pdf file 
 4)Use Speech Decoder.apk for Voice Recognisation
+
+```
+
+For Report
+
+```
+1)Wireless Switching.pdf consists of finalised report of this project. 
+2)Wireless-Switching-System/Minro_project/Minro_project.c is the code for programmming AVR microcontroller.
+```
+
+End with an example of getting some data out of the system or using it for a little demo
+
+## Running the tests
+
+
+
+### Break down into end to end tests
+
+Explain what these tests test and why
+
+```
+
 ```
 
 ### And coding style tests
@@ -63,9 +64,9 @@ Add additional notes about how to deploy this on a live system
 
 ## Built With
 
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
-* [Maven](https://maven.apache.org/) - Dependency Management
-* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
+* 
+* 
+* 
 
 ## Contributing
 
