@@ -22,7 +22,8 @@ A step by step series of examples that tell you how to get a development env run
 Say what the step will be
 
 ```
-Give the example
+1)Wireless Switching.pdf consists of finalised report of this project. 
+2)Wireless-Switching-System/Minro_project/Minro_project.c is the code for programmming AVR microcontroller.
 ```
 
 And repeat
@@ -42,7 +43,10 @@ Explain how to run the automated tests for this system
 Explain what these tests test and why
 
 ```
-Give an example
+1)Install Atmel Studio 
+2)Install Sinaprog to program the microcontroller 
+3)Make setup for required hardware prototype as mentioned in above .pdf file 
+4)Use Speech Decoder.apk for Voice Recognisation
 ```
 
 ### And coding style tests
